@@ -1,0 +1,12 @@
+
+code {white-space:pre;}
+#wrapper { text-align:center; margin:auto; margin-left: auto; margin-right:auto; width:100%; }
+#modeSelector {margin:0 auto;}
+#modeSelector #controls {float:left;}
+#modeSelector #table table {border:1px solid #000; text-align:left; }
+#modeSelector #table td {vertical-align:middle;}
+#modeSelector #table .name {font-size:1.7em; font-weight:bold; padding:0 5px;}
+#modeSelector #table .steps {padding:0 5px; border-left:1px solid #000; border-right:1px solid #000;}
+#modeSelector #table .degrees {padding:0 5px;}
+#modeSelector #table .key {padding:0 5px; border-left:1px solid #000;}
+#modeSelector #table {float:left;}
